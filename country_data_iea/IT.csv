@@ -62,7 +62,6 @@ Italy;IT;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2017;722667
 Italy;IT;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2018;690796
 Italy;IT;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2019;675190
 Italy;IT;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2020;667066
-Italy;IT;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2021;
 Italy;IT;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1990;163906
 Italy;IT;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1991;1736475
 Italy;IT;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1992;1721284
@@ -94,7 +93,6 @@ Italy;IT;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2017;2576934
 Italy;IT;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2018;2491707
 Italy;IT;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2019;2551815
 Italy;IT;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2020;2440311
-Italy;IT;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2021;
 Italy;IT;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1990;1272905
 Italy;IT;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1991;1390193
 Italy;IT;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1992;1360119
@@ -126,7 +124,6 @@ Italy;IT;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2017;1447669
 Italy;IT;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2018;1433755
 Italy;IT;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2019;1410345
 Italy;IT;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2020;1359058
-Italy;IT;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2021;
 Italy;IT;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1990;291166
 Italy;IT;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1991;260896
 Italy;IT;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1992;245571
@@ -158,7 +155,6 @@ Italy;IT;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2017;360915
 Italy;IT;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2018;320309
 Italy;IT;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2019;387693
 Italy;IT;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2020;378237
-Italy;IT;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2021;
 Italy;IT;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1990;46910
 Italy;IT;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1991;51016
 Italy;IT;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1992;56795
@@ -190,7 +186,6 @@ Italy;IT;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2017;685207
 Italy;IT;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2018;647315
 Italy;IT;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2019;666523
 Italy;IT;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2020;624669
-Italy;IT;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2021;
 Italy;IT;Total final consumption, Electricity (GWh);IEA.EE.TFC;1990;214627
 Italy;IT;Total final consumption, Electricity (GWh);IEA.EE.TFC;1991;219437
 Italy;IT;Total final consumption, Electricity (GWh);IEA.EE.TFC;1992;223486
@@ -222,7 +217,6 @@ Italy;IT;Total final consumption, Electricity (GWh);IEA.EE.TFC;2017;291965
 Italy;IT;Total final consumption, Electricity (GWh);IEA.EE.TFC;2018;293081
 Italy;IT;Total final consumption, Electricity (GWh);IEA.EE.TFC;2019;291933
 Italy;IT;Total final consumption, Electricity (GWh);IEA.EE.TFC;2020;275200
-Italy;IT;Total final consumption, Electricity (GWh);IEA.EE.TFC;2021;
 Italy;IT;Electricity production from Natural Gas (GWh);IEA.EE.NG;1990;39709
 Italy;IT;Electricity production from Natural Gas (GWh);IEA.EE.NG;1991;36342
 Italy;IT;Electricity production from Natural Gas (GWh);IEA.EE.NG;1992;35476
@@ -254,7 +248,6 @@ Italy;IT;Electricity production from Natural Gas (GWh);IEA.EE.NG;2017;140349
 Italy;IT;Electricity production from Natural Gas (GWh);IEA.EE.NG;2018;128538
 Italy;IT;Electricity production from Natural Gas (GWh);IEA.EE.NG;2019;141687
 Italy;IT;Electricity production from Natural Gas (GWh);IEA.EE.NG;2020;133683
-Italy;IT;Electricity production from Natural Gas (GWh);IEA.EE.NG;2021;
 Italy;IT;Domestic supply, Electricity (GWh);IEA.EE.DS;1990;251255
 Italy;IT;Domestic supply, Electricity (GWh);IEA.EE.DS;1991;256898
 Italy;IT;Domestic supply, Electricity (GWh);IEA.EE.DS;1992;261554

@@ -30,7 +30,6 @@ Egypt, Arab Rep.;EG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2017;18
 Egypt, Arab Rep.;EG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2018;2144875
 Egypt, Arab Rep.;EG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2019;2378704
 Egypt, Arab Rep.;EG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2020;2133477
-Egypt, Arab Rep.;EG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2021;
 Egypt, Arab Rep.;EG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1990;2700
 Egypt, Arab Rep.;EG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1991;3105
 Egypt, Arab Rep.;EG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1992;3344
@@ -62,7 +61,6 @@ Egypt, Arab Rep.;EG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2
 Egypt, Arab Rep.;EG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2018;93208
 Egypt, Arab Rep.;EG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2019;96743
 Egypt, Arab Rep.;EG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2020;93619
-Egypt, Arab Rep.;EG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2021;
 Egypt, Arab Rep.;EG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1990;281876
 Egypt, Arab Rep.;EG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1991;310536
 Egypt, Arab Rep.;EG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1992;334442
@@ -94,7 +92,6 @@ Egypt, Arab Rep.;EG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2017;204619
 Egypt, Arab Rep.;EG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2018;2167324
 Egypt, Arab Rep.;EG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2019;2204972
 Egypt, Arab Rep.;EG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2020;2133784
-Egypt, Arab Rep.;EG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2021;
 Egypt, Arab Rep.;EG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1990;101167
 Egypt, Arab Rep.;EG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1991;102780
 Egypt, Arab Rep.;EG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1992;107798
@@ -126,7 +123,6 @@ Egypt, Arab Rep.;EG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2017;56
 Egypt, Arab Rep.;EG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2018;588680
 Egypt, Arab Rep.;EG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2019;585570
 Egypt, Arab Rep.;EG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2020;566665
-Egypt, Arab Rep.;EG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2021;
 Egypt, Arab Rep.;EG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1990;166302
 Egypt, Arab Rep.;EG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1991;192221
 Egypt, Arab Rep.;EG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1992;210892
@@ -158,7 +154,6 @@ Egypt, Arab Rep.;EG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;
 Egypt, Arab Rep.;EG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2018;1330584
 Egypt, Arab Rep.;EG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2019;1241588
 Egypt, Arab Rep.;EG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2020;1201503
-Egypt, Arab Rep.;EG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2021;
 Egypt, Arab Rep.;EG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1990;0
 Egypt, Arab Rep.;EG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1991;0
 Egypt, Arab Rep.;EG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1992;0
@@ -190,7 +185,6 @@ Egypt, Arab Rep.;EG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2017;0
 Egypt, Arab Rep.;EG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2018;0
 Egypt, Arab Rep.;EG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2019;0
 Egypt, Arab Rep.;EG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2020;0
-Egypt, Arab Rep.;EG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2021;
 Egypt, Arab Rep.;EG;Total final consumption, Electricity (GWh);IEA.EE.TFC;1990;36202
 Egypt, Arab Rep.;EG;Total final consumption, Electricity (GWh);IEA.EE.TFC;1991;37975
 Egypt, Arab Rep.;EG;Total final consumption, Electricity (GWh);IEA.EE.TFC;1992;39009
@@ -222,7 +216,6 @@ Egypt, Arab Rep.;EG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2017;1
 Egypt, Arab Rep.;EG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2018;151460
 Egypt, Arab Rep.;EG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2019;147760
 Egypt, Arab Rep.;EG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2020;135035
-Egypt, Arab Rep.;EG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2021;
 Egypt, Arab Rep.;EG;Electricity production from Natural Gas (GWh);IEA.EE.NG;1990;18931
 Egypt, Arab Rep.;EG;Electricity production from Natural Gas (GWh);IEA.EE.NG;1991;21882
 Egypt, Arab Rep.;EG;Electricity production from Natural Gas (GWh);IEA.EE.NG;1992;24007
@@ -254,7 +247,6 @@ Egypt, Arab Rep.;EG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2017
 Egypt, Arab Rep.;EG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2018;172787
 Egypt, Arab Rep.;EG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2019;166355
 Egypt, Arab Rep.;EG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2020;160984
-Egypt, Arab Rep.;EG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2021;
 Egypt, Arab Rep.;EG;Domestic supply, Electricity (GWh);IEA.EE.DS;1990;42256
 Egypt, Arab Rep.;EG;Domestic supply, Electricity (GWh);IEA.EE.DS;1991;44296
 Egypt, Arab Rep.;EG;Domestic supply, Electricity (GWh);IEA.EE.DS;1992;45678
@@ -317,4 +309,3 @@ Egypt, Arab Rep.;EG;Total production, Electricity (GWh);IEA.EE.TP;2017;196603
 Egypt, Arab Rep.;EG;Total production, Electricity (GWh);IEA.EE.TP;2018;199658
 Egypt, Arab Rep.;EG;Total production, Electricity (GWh);IEA.EE.TP;2019;197201
 Egypt, Arab Rep.;EG;Total production, Electricity (GWh);IEA.EE.TP;2020;191908
-Egypt, Arab Rep.;EG;Total production, Electricity (GWh);IEA.EE.TP;2021;
