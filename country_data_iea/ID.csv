@@ -1,0 +1,311 @@
+﻿Country Name;Country Code;Indicator Name;Indicator Code;Year;Value
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;1990;1764159
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;1991;1992255
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;1992;2094183
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;1993;2156234
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;1994;2397033
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;1995;2392609
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;1996;2519492
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;1997;2620183
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;1998;2561953
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;1999;2739670
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;2000;2560827
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;2001;2470554
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;2002;2721248
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;2003;2849646
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;2004;2725008
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;2005;2745712
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;2006;2714296
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;2007;2612849
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;2008;2693877
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;2009;2809586
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;2010;3132018
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;2011;2976445
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;2012;2818784
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;2013;2794451
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;2014;2750385
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;2015;2741839
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;2016;2702878
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;2017;2617379
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;2018;2620860
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;2019;2433003
+Indonesia;ID;Total Natural Gas domestic production (TJ);IEA.NG.DP;2020;2143371
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1990;662279
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1991;790735
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1992;833292
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1993;866176
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1994;981361
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1995;1061020
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1996;1101890
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1997;1184490
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1998;1126259
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1999;1185620
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2000;1112225
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2001;1155710
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2002;1228271
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2003;1301684
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2004;1188006
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2005;1225616
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2006;1231044
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2007;1168224
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2008;1248153
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2009;1440284
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2010;1625438
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2011;1492947
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2012;1465639
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2013;1528708
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2014;1532637
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2015;1585337
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2016;1636689
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2017;1622208
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2018;1630114
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2019;1641715
+Indonesia;ID;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2020;1427760
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1990;8808
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1991;13364
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1992;15361
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1993;49237
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1994;168866
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1995;231913
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1996;261428
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1997;277984
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1998;246331
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1999;260645
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2000;242568
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2001;236695
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2002;214649
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2003;218624
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2004;206708
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2005;172164
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2006;211443
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2007;218975
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2008;245114
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2009;356656
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2010;362127
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2011;345757
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2012;431944
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2013;481821
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2014;523905
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2015;535331
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2016;595609
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2017;537779
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2018;557603
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2019;590191
+Indonesia;ID;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2020;458815
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1990;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1991;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1992;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1993;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1994;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1995;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1996;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1997;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1998;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1999;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2000;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2001;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2002;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2003;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2004;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2005;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2006;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2007;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2008;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2009;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2010;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2011;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2012;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2013;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2014;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2015;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2016;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2017;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2018;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2019;0
+Indonesia;ID;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2020;0
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1990;252239
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1991;250452
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1992;265991
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1993;277365
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1994;312602
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1995;302822
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1996;317772
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1997;351474
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1998;318111
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1999;434505
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2000;483962
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2001;516371
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2002;541449
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2003;522707
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2004;562499
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2005;570688
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2006;640963
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2007;461914
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2008;514856
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2009;645612
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2010;664133
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2011;705728
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2012;730929
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2013;731179
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2014;729158
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2015;721771
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2016;610357
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2017;647193
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2018;697989
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2019;692303
+Indonesia;ID;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2020;703381
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1990;225
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1991;230
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1992;230
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1993;236
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1994;283
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1995;334
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1996;391
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1997;427
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1998;437
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1999;427
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2000;473
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2001;513
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2002;553
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2003;582
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2004;686
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2005;686
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2006;737
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2007;760
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2008;755
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2009;749
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2010;778
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2011;657
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2012;772
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2013;703
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2014;523905
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2015;669
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2016;789
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2017;1020
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2018;1170
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2019;1337
+Indonesia;ID;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2020;1550
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;1990;734
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;1991;1051
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;1992;1076
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;1993;4844
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;1994;18716
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;1995;25401
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;1996;29208
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;1997;29953
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;1998;27199
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;1999;29167
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;2000;26090
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;2001;26220
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;2002;23845
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;2003;22917
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;2004;19629
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;2005;19086
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;2006;19448
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;2007;22372
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;2008;25207
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;2009;34804
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;2010;40247
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;2011;157993
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;2012;45453
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;2013;51490
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;2014;56025
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;2015;58894
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;2016;65699
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;2017;55360
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;2018;59421
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;2019;61332
+Indonesia;ID;Electricity production from Natural Gas (GWh);IEA.EE.NG;2020;48052
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;1990;32667
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;1991;37340
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;1992;41513
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;1993;45400
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;1994;51358
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;1995;59193
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;1996;67724
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;1997;74627
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;1998;78038
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;1999;85915
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;2000;93325
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;2001;101254
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;2002;108217
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;2003;112974
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;2004;120163
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;2005;127529
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;2006;133072
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;2007;142151
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;2008;149326
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;2009;156774
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;2010;169755
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;2011;183417
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;2012;200033
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;2013;216020
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;2014;227876
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;2015;233984
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;2016;247920
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;2017;254909
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;2018;283770
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;2019;295445
+Indonesia;ID;Total production, Electricity (GWh);IEA.EE.TP;2020;291826
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;1990;32667
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;1991;37340
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;1992;41513
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;1993;45400
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;1994;51358
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;1995;59193
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;1996;67724
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;1997;74627
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;1998;78038
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;1999;85915
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;2000;93325
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;2001;101254
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;2002;108217
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;2003;112974
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;2004;120163
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;2005;127529
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;2006;133072
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;2007;142151
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;2008;149326
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;2009;156775
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;2010;169757
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;2011;183420
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;2012;200033
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;2013;216023
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;2014;227885
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;2015;233997
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;2016;248613
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;2017;256029
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;2018;285265
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;2019;297128
+Indonesia;ID;Domestic supply, Electricity (GWh);IEA.EE.DS;2020;293379
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;1990;28288
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;1991;31482
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;1992;34964
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;1993;38961
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;1994;44669
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;1995;49749
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;1996;56932
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;1997;64464
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;1998;65261
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;1999;71335
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;2000;79164
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;2001;84520
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;2002;87086
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;2003;90441
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;2004;100097
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;2005;107705
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;2006;113415
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;2007;121614
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;2008;128810
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;2009;136053
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;2010;147297
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;2011;157993
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;2012;173991
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;2013;187541
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;2014;198605
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;2015;202845
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;2016;216004
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;2017;223134
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;2018;266780
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;2019;270399
+Indonesia;ID;Total final consumption, Electricity (GWh);IEA.EE.TFC;2020;275577

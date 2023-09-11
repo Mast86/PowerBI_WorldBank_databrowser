@@ -1,0 +1,311 @@
+﻿Country Name;Country Code;Indicator Name;Indicator Code;Year;Value
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;1990;13862
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;1991;10889
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;1992;9881
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;1993;7411
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;1994;7286
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;1995;5569
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;1996;32072
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;1997;65825
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;1998;75498
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;1999;72185
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;2000;78944
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;2001;89590
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;2002;85438
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;2003;86972
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;2004;92261
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;2005;83450
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;2006;84952
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;2007;80888
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;2008;81188
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;2009;94467
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;2010;128804
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;2011;122420
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;2012;118583
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;2013;118320
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;2014;108225
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;2015;105379
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;2016;95198
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;2017;89567
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;2018;85746
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;2019;79366
+Tunisia;TN;Total Natural Gas domestic production (TJ);IEA.NG.DP;2020;80592
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1990;51680
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1991;35850
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1992;51079
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1993;49320
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1994;69723
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1995;80569
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1996;86056
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1997;92678
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1998;103108
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1999;110045
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2000;114419
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2001;126832
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2002;124225
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2003;133513
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2004;142364
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2005;129438
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2006;144149
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2007;153030
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2008;170929
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2009;166588
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2010;212875
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2011;206097
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2012;222448
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2013;221819
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2014;220920
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2015;211709
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2016;218087
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2017;227576
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2018;230200
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2019;231343
+Tunisia;TN;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2020;220618
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1990;37064
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1991;21442
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1992;34835
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1993;32741
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1994;53015
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1995;62144
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1996;67767
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1997;71571
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1998;80579
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1999;85792
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2000;89060
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2001;100458
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2002;99972
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2003;97470
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2004;99797
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2005;103286
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2006;101961
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2007;105312
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2008;117805
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2009;126442
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2010;140238
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2011;137879
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2012;148412
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2013;149942
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2014;157220
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2015;149855
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2016;150952
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2017;154742
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2018;157024
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2019;164507
+Tunisia;TN;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2020;159881
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1990;0
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1991;0
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1992;0
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1993;0
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1994;0
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1995;0
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1996;0
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1997;0
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1998;0
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1999;0
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2000;0
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2001;0
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2002;0
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2003;0
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2004;0
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2005;0
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2006;0
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2007;0
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2008;0
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2009;0
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2010;505
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2011;474
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2012;620
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2013;826
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2014;971
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2015;1040
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2016;1523
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2017;1305
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2018;2119
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2019;2250
+Tunisia;TN;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2020;2399
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1990;13150
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1991;14198
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1992;15783
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1993;16789
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1994;17629
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1995;19597
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1996;20808
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1997;21329
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1998;22530
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1999;22915
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2000;25534
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2001;26815
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2002;27522
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2003;30390
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2004;33895
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2005;35262
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2006;38875
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2007;44662
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2008;46327
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2009;43790
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2010;62415
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2011;59471
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2012;63948
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2013;60659
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2014;56092
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2015;53966
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2016;58748
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2017;62756
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2018;65220
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2019;57922
+Tunisia;TN;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2020;51415
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1990;1549
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1991;2011
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1992;2177
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1993;2553
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1994;2638
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1995;3057
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1996;3446
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1997;3587
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1998;4153
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1999;4559
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2000;4859
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2001;5345
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2002;5301
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2003;6133
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2004;6980
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2005;7245
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2006;7819
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2007;7775
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2008;7028
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2009;7815
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2010;6952
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2011;8293
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2012;7719
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2013;8407
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2014;8688
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2015;9054
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2016;8862
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2017;9446
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2018;10534
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2019;10657
+Tunisia;TN;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2020;10185
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;1990;3700
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;1991;2141
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;1992;3478
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;1993;3325
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;1994;5273
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;1995;6502
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;1996;6780
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;1997;7142
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;1998;7915
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;1999;8633
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;2000;9280
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;2001;10191
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;2002;10551
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;2003;10991
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;2004;11590
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;2005;12265
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;2006;11936
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;2007;12186
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;2008;13577
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;2009;14549
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;2010;15703
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;2011;16132
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;2012;17533
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;2013;17617
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;2014;18026
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;2015;17992
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;2016;18961
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;2017;19715
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;2018;20038
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;2019;21005
+Tunisia;TN;Electricity production from Natural Gas (GWh);IEA.EE.NG;2020;20523
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;1990;5811
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;1991;6030
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;1992;6489
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;1993;6625
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;1994;7048
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;1995;7669
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;1996;7927
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;1997;8483
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;1998;9085
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;1999;9997
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;2000;10596
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;2001;11392
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;2002;11841
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;2003;11290
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;2004;11940
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;2005;12661
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;2006;13061
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;2007;13739
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;2008;14363
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;2009;15252
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;2010;16372
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;2011;16497
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;2012;18061
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;2013;18384
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;2014;19212
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;2015;19700
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;2016;19854
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;2017;20589
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;2018;21010
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;2019;22140
+Tunisia;TN;Total production, Electricity (GWh);IEA.EE.TP;2020;21633
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;1990;5807
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;1991;6046
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;1992;6485
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;1993;6840
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;1994;7451
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;1995;7700
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;1996;7942
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;1997;8490
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;1998;9066
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;1999;9999
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;2000;10597
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;2001;11402
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;2002;11782
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;2003;11270
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;2004;11912
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;2005;12658
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;2006;13068
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;2007;13731
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;2008;14356
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;2009;15293
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;2010;16391
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;2011;16467
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;2012;18019
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;2013;18328
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;2014;19123
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;2015;19603
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;2016;19733
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;2017;20555
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;2018;20908
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;2019;21981
+Tunisia;TN;Domestic supply, Electricity (GWh);IEA.EE.DS;2020;21034
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;1990;4928
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;1991;5135
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;1992;5530
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;1993;5836
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;1994;6332
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;1995;6578
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;1996;6770
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;1997;7215
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;1998;7691
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;1999;8613
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;2000;8979
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;2001;9604
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;2002;9966
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;2003;10421
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;2004;11051
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;2005;11228
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;2006;11832
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;2007;12182
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;2008;12758
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;2009;12718
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;2010;13551
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;2011;13239
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;2012;13486
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;2013;14728
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;2014;15205
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;2015;15437
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;2016;15569
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;2017;16113
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;2018;16503
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;2019;17430
+Tunisia;TN;Total final consumption, Electricity (GWh);IEA.EE.TFC;2020;16453

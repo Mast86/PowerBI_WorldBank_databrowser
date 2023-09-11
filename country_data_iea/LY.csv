@@ -1,0 +1,311 @@
+﻿Country Name;Country Code;Indicator Name;Indicator Code;Year;Value
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;1990;212040
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;1991;223668
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;1992;231534
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;1993;217512
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;1994;218538
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;1995;216828
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;1996;219564
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;1997;224694
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;1998;217512
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;1999;171684
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;2000;201096
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;2001;211356
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;2002;201780
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;2003;188100
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;2004;275652
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;2005;386802
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;2006;451440
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;2007;522576
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;2008;543780
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;2009;543780
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;2010;574902
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;2011;238032
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;2012;549594
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;2013;581058
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;2014;567378
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;2015;529861
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;2016;532510
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;2017;489377
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;2018;474695
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;2019;485287
+Libya;LY;Total Natural Gas domestic production (TJ);IEA.NG.DP;2020;444600
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1990;169632
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1991;169632
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1992;168606
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1993;162792
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1994;167922
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1995;165870
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1996;178524
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1997;186390
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1998;186390
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1999;138852
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2000;173736
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2001;185022
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2002;180234
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2003;162450
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2004;202806
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2005;199728
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2006;163818
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2007;181944
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2008;188100
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2009;205542
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2010;241452
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2011;155268
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2012;328320
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2013;386118
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2014;344736
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2015;286699
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2016;368350
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2017;332057
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2018;320795
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2019;290347
+Libya;LY;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2020;290700
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1990;0
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1991;0
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1992;0
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1993;0
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1994;0
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1995;27529
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1996;30706
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1997;29647
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1998;29647
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1999;34942
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2000;36000
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2001;37609
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2002;35081
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2003;43652
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2004;46348
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2005;75161
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2006;109884
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2007;116179
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2008;215221
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2009;112796
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2010;145364
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2011;147319
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2012;190399
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2013;212786
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2014;194778
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2015;208143
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2016;239464
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2017;239803
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2018;235319
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2019;244144
+Libya;LY;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2020;227148
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1990;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1991;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1992;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1993;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1994;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1995;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1996;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1997;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1998;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1999;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2000;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2001;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2002;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2003;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2004;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2005;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2006;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2007;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2008;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2009;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2010;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2011;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2012;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2013;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2014;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2015;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2016;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2017;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2018;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2019;0
+Libya;LY;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2020;0
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1990;54000
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1991;62197
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1992;72000
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1993;63900
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1994;65700
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1995;72900
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1996;72900
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1997;82800
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1998;80100
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1999;86400
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2000;90000
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2001;94592
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2002;90306
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2003;84183
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2004;105097
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2005;103502
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2006;84892
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2007;94286
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2008;97475
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2009;106513
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2010;64939
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2011;57052
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2012;53031
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2013;74591
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2014;69151
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2015;64966
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2016;31726
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2017;21854
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2018;20243
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2019;22441
+Libya;LY;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2020;22191
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1990;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1991;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1992;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1993;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1994;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1995;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1996;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1997;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1998;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1999;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2000;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2001;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2002;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2003;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2004;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2005;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2006;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2007;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2008;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2009;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2010;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2011;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2012;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2013;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2014;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2015;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2016;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2017;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2018;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2019;0
+Libya;LY;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2020;0
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;1990;0
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;1991;0
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;1992;0
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;1993;0
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;1994;0
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;1995;2600
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;1996;2900
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;1997;2800
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;1998;2800
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;1999;3300
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;2000;3400
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;2001;3552
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;2002;3704
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;2003;3856
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;2004;3907
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;2005;6336
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;2006;9801
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;2007;11543
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;2008;11750
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;2009;11906
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;2010;15344
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;2011;15550
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;2012;20728
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;2013;22135
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;2014;20262
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;2015;20262
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;2016;22802
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;2017;22834
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;2018;22407
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;2019;23248
+Libya;LY;Electricity production from Natural Gas (GWh);IEA.EE.NG;2020;21629
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;1990;10169
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;1991;10460
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;1992;10759
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;1993;11341
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;1994;11689
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;1995;11415
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;1996;12086
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;1997;12620
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;1998;13528
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;1999;14407
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;2000;15496
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;2001;16111
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;2002;17531
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;2003;18943
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;2004;20279
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;2005;22672
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;2006;24754
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;2007;26234
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;2008;28666
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;2009;30373
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;2010;32558
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;2011;25999
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;2012;34275
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;2013;37913
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;2014;37731
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;2015;37511
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;2016;31420
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;2017;33282
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;2018;34171
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;2019;34629
+Libya;LY;Total production, Electricity (GWh);IEA.EE.TP;2020;29499
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;1990;10169
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;1991;10460
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;1992;10759
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;1993;11341
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;1994;11689
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;1995;11415
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;1996;12086
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;1997;12620
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;1998;13528
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;1999;14407
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;2000;15496
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;2001;16111
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;2002;17531
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;2003;18943
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;2004;20279
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;2005;22719
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;2006;24787
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;2007;26207
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;2008;28618
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;2009;30344
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;2010;32476
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;2011;25934
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;2012;34322
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;2013;37976
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;2014;37819
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;2015;37511
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;2016;31796
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;2017;33584
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;2018;34636
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;2019;35405
+Libya;LY;Domestic supply, Electricity (GWh);IEA.EE.DS;2020;30758
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;1990;5834
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;1991;6338
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;1992;6924
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;1993;7304
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;1994;7502
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;1995;7457
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;1996;7621
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;1997;7784
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;1998;9351
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;1999;9837
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;2000;10132
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;2001;10436
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;2002;13248
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;2003;14327
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;2004;15373
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;2005;19042
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;2006;21573
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;2007;21883
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;2008;18334
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;2009;18325
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;2010;19796
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;2011;15808
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;2012;18045
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;2013;18995
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;2014;17019
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;2015;15282
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;2016;13988
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;2017;14133
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;2018;17605
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;2019;18001
+Libya;LY;Total final consumption, Electricity (GWh);IEA.EE.TFC;2020;17442

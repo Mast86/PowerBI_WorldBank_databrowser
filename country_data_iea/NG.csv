@@ -1,0 +1,311 @@
+﻿Country Name;Country Code;Indicator Name;Indicator Code;Year;Value
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;1990;136800
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;1991;166815
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;1992;175500
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;1993;191700
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;1994;187866
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;1995;184150
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;1996;186634
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;1997;195150
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;1998;201780
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;1999;237690
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2000;426132
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2001;509580
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2002;485640
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2003;753441
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2004;823168
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2005;828010
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2006;967465
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2007;1210541
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2008;1180520
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2009;834790
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2010;1112884
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2011;1311259
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2012;1409071
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2013;1271075
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2014;1450767
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2015;1494118
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2016;1443240
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2017;1542420
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2018;1562940
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2019;1579356
+Nigeria;NG;Total Natural Gas domestic production (TJ);IEA.NG.DP;2020;1588590
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1990;136800
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1991;166815
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1992;175500
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1993;191700
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1994;187866
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1995;184150
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1996;186634
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1997;195150
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1998;201780
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;1999;212382
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2000;241110
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2001;212382
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2002;217512
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2003;367675
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2004;375177
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2005;377446
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2006;395495
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2007;406791
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2008;377877
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2009;330300
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2010;369523
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2011;512319
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2012;528244
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2013;523805
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2014;597819
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2015;593632
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2016;629964
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2017;593028
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2018;628254
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2019;642276
+Nigeria;NG;Total energy supply, Natural Gas (TJ);IEA.NG.TES;2020;645696
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1990;75600
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1991;66600
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1992;66600
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1993;74970
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1994;65974
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1995;65974
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1996;66864
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1997;106455
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1998;106454
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;1999;112466
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2000;119679
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2001;111044
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2002;126634
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2003;114624
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2004;145503
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2005;141939
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2006;151623
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2007;150759
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2008;138501
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2009;137232
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2010;177723
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2011;190359
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2012;107423
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2013;212013
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2014;241965
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2015;240273
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2016;254979
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2017;220230
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2018;241766
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2019;229343
+Nigeria;NG;Electricity plants consumption, Natural Gas (TJ);IEA.NG.EPC;2020;241287
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1990;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1991;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1992;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1993;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1994;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1995;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1996;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1997;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1998;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;1999;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2000;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2001;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2002;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2003;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2004;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2005;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2006;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2007;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2008;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2009;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2010;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2011;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2012;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2013;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2014;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2015;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2016;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2017;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2018;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2019;0
+Nigeria;NG;CHP plants consumption, Natural Gas (TJ);IEA.NG.CHPPC;2020;0
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1990;29993
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1991;27293
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1992;29250
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1993;31140
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1994;33943
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1995;30990
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1996;31408
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1997;32841
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1998;33957
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;1999;35741
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2000;40576
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2001;35741
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2002;36606
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2003;155918
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2004;125896
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2005;117807
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2006;116606
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2007;115961
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2008;92969
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2009;68759
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2010;50716
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2011;107495
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2012;129770
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2013;138646
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2014;158237
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2015;157568
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2016;154220
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2017;145177
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2018;153801
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2019;157234
+Nigeria;NG;Total final consumption, Natural Gas (TJ);IEA.NG.TFC;2020;158071
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1990;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1991;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1992;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1993;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1994;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1995;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1996;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1997;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1998;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;1999;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2000;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2001;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2002;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2003;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2004;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2005;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2006;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2007;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2008;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2009;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2010;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2011;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2012;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2013;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2014;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2015;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2016;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2017;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2018;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2019;0
+Nigeria;NG;Residential final consumption, Natural Gas (TJ);IEA.NG.RFC;2020;0
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;1990;7223
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;1991;6578
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;1992;6628
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;1993;6980
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;1994;8259
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;1995;7331
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;1996;7430
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;1997;10524
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;1998;9336
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;1999;9941
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2000;9099
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2001;9553
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2002;13311
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2003;12736
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2004;16167
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2005;15771
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2006;16847
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2007;16751
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2008;15389
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2009;15248
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2010;19747
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2011;21151
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2012;23047
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2013;23557
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2014;26885
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2015;26697
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2016;28331
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2017;24443
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2018;25657
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2019;24633
+Nigeria;NG;Electricity production from Natural Gas (GWh);IEA.EE.NG;2020;24701
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;1990;13463
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;1991;14167
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;1992;14834
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;1993;14505
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;1994;15531
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;1995;15857
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;1996;16243
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;1997;16117
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;1998;15111
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;1999;16089
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;2000;14727
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;2001;15462
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;2002;21545
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;2003;20184
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;2004;24275
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;2005;23539
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;2006;23110
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;2007;22978
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;2008;21110
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;2009;19777
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;2010;26121
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;2011;27034
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;2012;28728
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;2013;28906
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;2014;32254
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;2015;33142
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;2016;36505
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;2017;32215
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;2018;33377
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;2019;33104
+Nigeria;NG;Total production, Electricity (GWh);IEA.EE.TP;2020;32429
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;1990;13463
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;1991;14075
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;1992;14742
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;1993;14401
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;1994;15393
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;1995;15857
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;1996;16243
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;1997;16117
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;1998;15111
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;1999;16089
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;2000;14727
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;2001;15462
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;2002;21545
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;2003;20184
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;2004;24275
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;2005;23539
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;2006;23110
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;2007;22978
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;2008;21110
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;2009;19777
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;2010;26121
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;2011;27034
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;2012;28728
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;2013;28906
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;2014;32254
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;2015;33142
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;2016;36505
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;2017;32215
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;2018;33377
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;2019;33104
+Nigeria;NG;Domestic supply, Electricity (GWh);IEA.EE.DS;2020;32429
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;1990;7871
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;1991;8292
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;1992;8699
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;1993;9998
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;1994;9595
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;1995;9436
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;1996;9052
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;1997;8843
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;1998;8521
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;1999;8570
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2000;8643
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2001;8961
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2002;12777
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2003;12772
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2004;15926
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2005;17175
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2006;15107
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2007;19471
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2008;18316
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2009;17911
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2010;20660
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2011;23447
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2012;25159
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2013;23487
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2014;24439
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2015;25042
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2016;25429
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2017;25992
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2018;26653
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2019;27274
+Nigeria;NG;Total final consumption, Electricity (GWh);IEA.EE.TFC;2020;27767
